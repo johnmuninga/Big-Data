@@ -1,0 +1,10 @@
+C:\Users\emman\Downloads\Big_Data\bin\Debug\Big_Data.exe.config
+C:\Users\emman\Downloads\Big_Data\bin\Debug\Big_Data.exe
+C:\Users\emman\Downloads\Big_Data\bin\Debug\Big_Data.pdb
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.csproj.AssemblyReference.cache
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.Form1.resources
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.Properties.Resources.resources
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.csproj.GenerateResource.cache
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.exe
+C:\Users\emman\Downloads\Big_Data\obj\Debug\Big_Data.pdb
